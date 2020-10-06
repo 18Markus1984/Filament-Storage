@@ -1,0 +1,16 @@
+id:0
+Durchmesser:1
+Farbe:2
+RGB:3
+Gewicht:4
+Bestellnummer:5
+Druckkopf:6
+Menge:7
+Geöffnet:8
+BedT:9
+ExT:10
+Lagerort:11
+Notizen:12
+marke: 13
+art:14
+preis:15
